@@ -8,7 +8,7 @@ Este repositório armazena os códigos e scripts fornecidos durante as aulas ao 
 Basta clonar o repositório:
 
 ```
-git clone git@github.com:luanah-souzza/trybe-live-lectures.git
+git@github.com:luanah-souzza/live-lectures-trybe.git
 ```
 
 Em seguida acessar a branch do Pull Request da aula seguindo o padrão de nomeclatura das branchs (lecture/nome-da-aula).
